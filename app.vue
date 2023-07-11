@@ -41,7 +41,7 @@ const completeTask = (completedTaskName: string) => {
 <style scoped>
 
 .todo-app__title {
-  font-size: 30px;
+  font-size: 35px;
   font-weight: bold;
   margin-bottom: 20px;
 }
